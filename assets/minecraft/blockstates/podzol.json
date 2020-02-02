@@ -1,0 +1,20 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "variants": {
+        "snowy=false": [
+            { "model": "podzol", "weight": 60 },
+            { "model": "podzol", "weight": 60, "y": 90 },
+            { "model": "podzol", "weight": 60, "y": 180 },
+            { "model": "podzol", "weight": 60, "y": 270 },
+            { "model": "podzol1", "weight": 30 },
+            { "model": "podzol1", "weight": 30, "y": 90 },
+            { "model": "podzol1", "weight": 30, "y": 180 },
+            { "model": "podzol1", "weight": 30, "y": 270 },
+            { "model": "podzol2", "weight": 10 },
+            { "model": "podzol2", "weight": 10, "y": 90 },
+            { "model": "podzol2", "weight": 10, "y": 180 },
+            { "model": "podzol2", "weight": 10, "y": 270 }
+        ],
+        "snowy=true":  { "model": "podzol_snow" }
+    }
+}

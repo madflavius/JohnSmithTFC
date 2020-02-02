@@ -1,0 +1,7 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "parent": "block/flower_pot_cross1",
+    "textures": {
+        "plant": "block/mushroom_brown1"
+    }
+}

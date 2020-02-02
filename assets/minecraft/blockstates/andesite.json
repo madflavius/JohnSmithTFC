@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "variants": {
+        "normal": [
+            { "model": "andesite" },
+            { "model": "andesite1" },
+            { "model": "andesite2" },
+            { "model": "andesite3" }
+        ]
+    }
+}

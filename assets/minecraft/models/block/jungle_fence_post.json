@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2017",
+    "parent": "block/fence_post_custom",
+    "textures": {
+        "texture": "blocks/fence_jungle",
+        "top": "blocks/fence_jungle_top",
+        "bottom": "blocks/fence_jungle_bottom"
+    }
+}

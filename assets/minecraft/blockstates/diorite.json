@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "variants": {
+        "normal": [
+            { "model": "diorite" },
+            { "model": "diorite1" },
+            { "model": "diorite2" },
+            { "model": "diorite3" }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "__comment": "JimStoneCraft - 2019",
+    "variants": {
+        "stage=0": { "model": "jungle_sapling0" },
+        "stage=1": { "model": "jungle_sapling" }
+    }
+}

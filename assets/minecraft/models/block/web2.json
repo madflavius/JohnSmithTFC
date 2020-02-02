@@ -1,0 +1,7 @@
+{
+    "__comment": "JimStoneCraft - 2018",
+    "parent": "block/cross",
+    "textures": {
+        "cross": "blocks/web2"
+    }
+}

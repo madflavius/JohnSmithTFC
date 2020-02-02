@@ -1,0 +1,98 @@
+====================================================================================================
+
+John Smith Legacy - Resource Pack
+
+for Vanilla Minecraft
+
+http://www.johnsmithlegacy.co.uk/
+
+====================================================================================================
+
+NOTE:- This Resource Pack is not compatible with older releases.
+
+For older releases see the John Smith Legacy website (link above).
+
+
+-Where do I put the Resource Pack?------------------------------------------------------------------
+
+    Run the Minecraft Launcher, log in and press the Play button.
+
+    On the Minecraft title screen select "Options"
+
+    Select "Resource Packs" (bottom left).
+
+    Then select "Open Resource Pack folder" (also on the bottom left).
+
+
+Alternately on a Windows based system you can:
+
+    Click on "Windows Start" > Run (or search) and copy/paste the following:
+
+    %appdata%/.minecraft/resourcepacks
+    
+    Then press Enter/Return
+
+
+Copy/Move the file "John Smith Legacy.zip" into the ".minecraft/resourcepacks" folder (you don't
+need extract it!).
+
+
+-How do I select this Resource Pack-----------------------------------------------------------------
+
+    Run the Minecraft Launcher, log in and press the Play button.
+
+    On the Minecraft title screen select "Options"
+
+    Select "Resource Packs" (bottom left).
+
+    Then select "John Smith Legacy JSC v1.1.00". (or whatever the latest version is)
+
+
+That's all,
+
+Happy Mining!!
+
+
+-Credits--------------------------------------------------------------------------------------------
+
+See the main site Credits section for a more exhaustive list and avatar images.
+
+http://www.johnsmithlegacy.co.uk/credits.php
+
+Thanks to all of the People who helped with the pack:-
+
+- JohnSmith
+- JimStoneCraft
+- Glowstontium
+- Greenhawk837
+- iTpyn
+- Zica
+- Arkindal
+- Freakscar
+- JohnLemon
+- Leenhaart
+- flying sheep
+- RedSolar (for the old Sheep Colours)
+- Lazdude2012
+- PwnyBrony32
+- Codiferus17
+- _DRYBONES_
+- xXTerra_BranfordXx
+- Nehaw55
+- EchoZeero
+- WaterTipper
+- Necron 1992
+- Soulburner
+- Brice47
+- JonnnLeee (for the wonderful flowers)
+- Dweller_Benthos
+
+And all the people in the Minecraft Forum community.
+
+Kahr for MCPatcher
+sp614x for Optifine
+
+and of course Mojang for the game that is Minecraft.
+https://minecraft.net/
+
+====================================================================================================
