@@ -1,9 +1,0 @@
-{
-    "__comment": "JimStoneCraft - 2018",
-    "parent": "block/piston",
-    "textures": {
-        "bottom": "blocks/piston_bottom",
-        "side": "blocks/piston_side_sticky",
-        "platform": "blocks/piston_top_sticky"
-    }
-}

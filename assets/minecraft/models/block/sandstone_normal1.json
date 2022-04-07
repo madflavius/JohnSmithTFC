@@ -1,9 +1,0 @@
-{
-    "__comment": "JimStoneCraft - 2019",
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "blocks/sandstone_bottom1",
-        "top": "blocks/sandstone_top1",
-        "side": "blocks/sandstone_normal1"
-    }
-}

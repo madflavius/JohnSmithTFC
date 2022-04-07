@@ -1,9 +1,0 @@
-{
-    "__comment": "JimStoneCraft - 2019",
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "items/potion_lingering_overlay",
-        "layer1": "items/potion_bottle_lingering"
-    }
-}
-
